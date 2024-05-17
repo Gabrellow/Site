@@ -1,0 +1,48 @@
+body {
+    background-image: url('Shaco.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}  
+div {
+    width: 600px;
+    margin: 50px auto;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+}
+
+h1 {
+    font-size: 24px;
+    font-family: Georgia;
+    text-align: center;
+    color: white;
+}
+
+img {
+    width: 265px;
+    margin-right: 15px;
+    margin-left: 15px;
+    visibility: visible;
+    border: 1px solid white; /*maneira abreviada de utilizar border*/
+    padding: auto; /* Espaço interno do elemento */
+  /*margin: Espaço externo do elemento */
+}
+
+p {
+    font-size: 16px;
+    font-family: 'Lucida Sans';
+    text-align: justify;
+    margin-right: 15px;
+    margin-left: 15px;
+    color: white;
+}
+
+span {
+    font-weight: bold;
+}
+
+a {
+    margin: 15px;
+    color: bisque;
+}
